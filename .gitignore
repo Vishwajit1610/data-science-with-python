@@ -13,6 +13,3 @@ env/
 # IDE/editor-specific files
 .vscode/
 .idea/
-
-# Anaconda specific files
-anaconda_projects/
