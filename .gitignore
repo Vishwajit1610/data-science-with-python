@@ -16,3 +16,5 @@ env/
 
 # Anaconda specific
 anaconda_projects/
+
+.virtual_documents/
